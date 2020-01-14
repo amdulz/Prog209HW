@@ -1,5 +1,42 @@
- body {
-    margin: 50px;
-    font-family: Helvetica, sans-serif;
-    font-size: 150%;
+
+#wrap {
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    
+}
+p.solid {border-style: solid;}
+
+h2 {
+    text-align: center;
+    color: #00008B;
+    }
+    
+#container {
+    text-align: center;
+    height: 450px;
+}
+
+#buttons {
+    margin-top: 10px;
+    padding-top: 2em;
+}
+
+#previous {
+    width: 75px;
+}
+
+#next {
+    float: right;
+    width: 75px;
+}
+
+
+
+#check {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
 }
